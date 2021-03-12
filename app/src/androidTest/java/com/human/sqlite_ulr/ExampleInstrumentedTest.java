@@ -1,4 +1,4 @@
-package com.human.sqlite_kimilguk;
+package com.human.sqlite_ulr;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.human.sqlite_kimilguk", appContext.getPackageName());
+        assertEquals("com.human.sqlite_ulr", appContext.getPackageName());
     }
 }
